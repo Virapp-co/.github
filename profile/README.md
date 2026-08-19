@@ -1,75 +1,90 @@
-# 🚀 Virapp
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/318084001?s=200&v=4" width="140" alt="Virapp Logo"/>
+</p>
+
+<h1 align="center">Virapp</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=180&section=header&text=Virapp&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <b>Building high-quality digital products.</b><br>
+  Mobile • AI • Backend • Cloud
 </p>
 
 <p align="center">
-  <b>Building modern mobile experiences.</b><br>
-  Android • iOS • AI • Backend
+  <a href="https://github.com/Virapp-co">
+    <img src="https://img.shields.io/badge/GitHub-Virapp--co-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Development-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-Friendly-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Made%20with-Kotlin-EA580C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/KMP-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-## 👋 Hakkımızda
+## 👋 About
 
-Virapp, mobil uygulama geliştirme ve dijital ürün üretmeye odaklanan bağımsız bir geliştirme ekibidir.
+Virapp is an independent software studio focused on building modern mobile applications and scalable digital products.
 
-Modern kullanıcı deneyimi, yüksek performans ve sürdürülebilir yazılım mimarilerini bir araya getirerek milyonlarca kullanıcıya ulaşabilecek ürünler geliştiriyoruz.
+We combine clean architecture, elegant user interfaces, and high-performance engineering to create products that users enjoy every day.
 
 ---
 
-## ⚡ Uzmanlık Alanlarımız
+## 🚀 What We Build
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📱 Mobile
+### 📱 Mobile Development
 
-* Android (Kotlin)
-* Jetpack Compose
-* SwiftUI
-* Kotlin Multiplatform
+- Android (Kotlin)
+- Jetpack Compose
+- SwiftUI
+- Kotlin Multiplatform
+- Cross-platform Architecture
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### ☁️ Backend
 
-* REST API
-* Firebase
-* PostgreSQL
-* Node.js
+- REST APIs
+- Firebase
+- PostgreSQL
+- Authentication
+- Cloud Services
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td valign="top">
 
-### 🤖 AI
+### 🤖 Artificial Intelligence
 
-* AI Destekli Uygulamalar
-* Computer Vision
-* OCR
-* LLM Entegrasyonları
+- AI Integration
+- OCR
+- LLM Applications
+- Automation
+- Intelligent Workflows
 
 </td>
-<td>
 
-### 🎨 UI/UX
+<td valign="top">
 
-* Material Design 3
-* Responsive UI
-* Motion Design
-* Design Systems
+### 🎨 Design
+
+- Material Design 3
+- Design Systems
+- Motion UI
+- Responsive Interfaces
+- User Experience
 
 </td>
 </tr>
@@ -81,60 +96,76 @@ Modern kullanıcı deneyimi, yüksek performans ve sürdürülebilir yazılım m
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,react,nodejs,firebase,postgres,git,github,vscode,androidstudio&perline=6"/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,react,nodejs,firebase,postgres,docker,git,github,androidstudio&perline=6"/>
 
 </p>
 
 ---
 
-## 📦 Projeler
+## 📦 Featured Projects
 
-| Proje               | Açıklama                            |
-| ------------------- | ----------------------------------- |
-| 📚 KPSS Vatandaşlık | KPSS hazırlık uygulaması            |
-| 📖 Yazar Eser       | YKS Edebiyat öğrenme platformu      |
-| 🚀 Yeni Ürünler     | Yapay zeka ve mobil odaklı projeler |
+| Project | Description | Status |
+|---------|-------------|--------|
+| 📚 KPSS Vatandaşlık | Modern exam preparation platform | ✅ Active |
+| 📖 Yazar Eser | Literature learning application | ✅ Active |
+| 🚀 Upcoming Products | AI-powered mobile applications | 🚧 In Progress |
 
 ---
 
-## 📊 Yaklaşımımız
+## ⚙️ Development Workflow
 
 ```text
-💡 Fikir
+💡 Idea
    │
    ▼
-🎨 Tasarım
+🎨 Design
    │
    ▼
-⚙️ Geliştirme
+⚙️ Development
    │
    ▼
-🧪 Test
+🧪 Testing
    │
    ▼
-🚀 Yayınlama
+🚀 Deployment
 ```
 
 ---
 
-## 🌍 Vizyon
+## 🎯 Core Principles
 
-> Kullanıcı odaklı, hızlı ve kaliteli dijital ürünler geliştirerek modern yazılım deneyimleri oluşturmak.
+- Clean Architecture
+- Scalable Solutions
+- Modern UI/UX
+- Performance First
+- User-Centered Design
+- Continuous Improvement
 
 ---
 
-## 📫 İletişim
+## 📈 GitHub Statistics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Virapp-co&show_icons=true&hide_border=true&theme=transparent"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virapp-co&layout=compact&hide_border=true&theme=transparent"/>
+</p>
 
-<a href="https://github.com/Virapp-co">
-<img src="https://img.shields.io/badge/GitHub-Virapp--co-181717?style=for-the-badge&logo=github"/>
-</a>
+---
 
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/Virapp-co">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Organization-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<i>Crafting software with simplicity, performance and great user experience.</i>
+  <img src="https://avatars.githubusercontent.com/u/318084001?s=200&v=4" width="48"/>
+</p>
+
+<p align="center">
+  <b>Crafting software with simplicity, performance and exceptional user experience.</b>
 </p>
